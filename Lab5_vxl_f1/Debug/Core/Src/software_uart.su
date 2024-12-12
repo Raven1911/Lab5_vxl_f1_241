@@ -1,0 +1,4 @@
+../Core/Src/software_uart.c:19:6:UART_SendString	16	static
+../Core/Src/software_uart.c:24:6:UART_SendByte	16	static
+../Core/Src/software_uart.c:29:6:UART_StartReceive	16	static
+../Core/Src/software_uart.c:34:6:HAL_UART_RxCpltCallback	16	static
